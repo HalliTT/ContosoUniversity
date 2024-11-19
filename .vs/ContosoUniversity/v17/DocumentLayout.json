@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFDF4E35-E481-4A02-BF85-1B7A0AA0CF9E}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\haral\\documents\\github\\contosouniversity\\contosouniversity\\views\\instructors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFDF4E35-E481-4A02-BF85-1B7A0AA0CF9E}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\instructors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FFDF4E35-E481-4A02-BF85-1B7A0AA0CF9E}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\haral\\documents\\github\\contosouniversity\\contosouniversity\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFDF4E35-E481-4A02-BF85-1B7A0AA0CF9E}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFDF4E35-E481-4A02-BF85-1B7A0AA0CF9E}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\haral\\documents\\github\\contosouniversity\\contosouniversity\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFDF4E35-E481-4A02-BF85-1B7A0AA0CF9E}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFDF4E35-E481-4A02-BF85-1B7A0AA0CF9E}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\haral\\documents\\github\\contosouniversity\\contosouniversity\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFDF4E35-E481-4A02-BF85-1B7A0AA0CF9E}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDF4E35-E481-4A02-BF85-1B7A0AA0CF9E}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\haral\\documents\\github\\contosouniversity\\contosouniversity\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFDF4E35-E481-4A02-BF85-1B7A0AA0CF9E}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDF4E35-E481-4A02-BF85-1B7A0AA0CF9E}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\haral\\documents\\github\\contosouniversity\\contosouniversity\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDF4E35-E481-4A02-BF85-1B7A0AA0CF9E}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDF4E35-E481-4A02-BF85-1B7A0AA0CF9E}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\haral\\documents\\github\\contosouniversity\\contosouniversity\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFDF4E35-E481-4A02-BF85-1B7A0AA0CF9E}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,26 +44,65 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\Views\\Instructors\\Create.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Instructors\\Create.cshtml",
-              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\Views\\Instructors\\Create.cshtml",
-              "RelativeToolTip": "ContosoUniversity\\Views\\Instructors\\Create.cshtml",
-              "ViewState": "AQIAABwAAAAAAAAAAAAkwCgAAAA/AAAA",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T13:25:17.603Z",
+              "WhenOpened": "2024-11-19T13:55:51.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InstructorsController.cs",
-              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\Controllers\\InstructorsController.cs",
-              "RelativeDocumentMoniker": "ContosoUniversity\\Controllers\\InstructorsController.cs",
-              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\Controllers\\InstructorsController.cs",
-              "RelativeToolTip": "ContosoUniversity\\Controllers\\InstructorsController.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAYwGoAAAAjAAAA",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\Views\\Departments\\Details.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Departments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\Views\\Departments\\Details.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Departments\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T13:54:16.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\Views\\Departments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Departments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\Views\\Departments\\Delete.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Departments\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T13:51:12.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\Views\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Departments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\Views\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Departments\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T13:44:36.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "ContosoUniversity\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAkwNQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T13:22:13.67Z",
+              "WhenOpened": "2024-11-19T13:36:16.775Z",
               "EditorCaption": ""
             }
           ]
