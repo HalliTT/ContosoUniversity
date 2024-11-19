@@ -1,10 +1,16 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 
 namespace ContosoUniversity.Models
 {
     public class Department
     {
+        public Department()
+        {
+            Courses = new HashSet<Course>(); // Use HashSet for better performance
+        }
+
         public int DepartmentID { get; set; }
 
         [StringLength(50, MinimumLength = 3)]
@@ -21,6 +27,7 @@ namespace ContosoUniversity.Models
 
         public int? InstructorID { get; set; }
 
+        [ValidateNever]
         public Instructor Administrator { get; set; }
         public ICollection<Course> Courses { get; set; }
     }
