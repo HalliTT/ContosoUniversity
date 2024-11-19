@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\haral\\Desktop\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\haral\\Desktop\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\haral\\Desktop\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\haral\\Desktop\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectPath": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\haral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\haral\\Desktop\\ContosoUniversity\\ContosoUniversity\\obj\\",
+        "outputPath": "C:\\Users\\haral\\Documents\\GitHub\\ContosoUniversity\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\haral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
