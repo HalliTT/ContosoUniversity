@@ -175,13 +175,13 @@ namespace ContosoUniversity.Controllers
             return _context.Courses.Any(e => e.CourseID == id);
         }
 
-        public IActionResult UpdateCourseCredits()
+        public IActionResult UpdateCourseCredit()
         {
             return View();
         }
 
         [HttpPost]
-        public async Task<IActionResult> UpdateCourseCredits(int? multiplier)
+        public async Task<IActionResult> UpdateCourseCredit(int? multiplier)
         {
             if (multiplier != null)
             {

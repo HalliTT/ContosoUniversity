@@ -1,12 +1,12 @@
 ﻿@{
-    ViewBag.Title = "UpdateCourseCredits";
+    ViewBag.Title = "UpdateCourseCredit";
 }
 
 <h2>Update Course Credits</h2>
 
 @if (ViewData["RowsAffected"] == null)
 {
-    <form asp-action="UpdateCourseCredits">
+    <form asp-action="UpdateCourseCredit">
         <div class="form-actions no-color">
             <p>
                 Enter a number to multiply every course's credits by: @Html.TextBox("multiplier")
