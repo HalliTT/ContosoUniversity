@@ -8,7 +8,7 @@ namespace ContosoUniversity.Models
     {
         public Department()
         {
-            Courses = new HashSet<Course>(); // Use HashSet for better performance
+            Courses = new HashSet<Course>();
         }
 
         public int DepartmentID { get; set; }

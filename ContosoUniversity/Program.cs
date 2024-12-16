@@ -18,7 +18,7 @@ using (var scope = app.Services.CreateScope())
     try
     {
         var context = services.GetRequiredService<SchoolContext>();
-        DbInitializer.Initialize(context); // Call your database initialization logic
+        DbInitializer.Initialize(context);
     }
     catch (Exception ex)
     {
